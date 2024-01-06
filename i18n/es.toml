@@ -12,12 +12,12 @@ other = "Ver comentarios"
 
 # === Post ===
 [posts]
-other = "Artículos"
+other = "Publicaciones"
 # === Post ===
 
 # === Taxonomy ===
 [allSome]
-other = "Todos los {{ .Some }}"
+other = "Todas las {{ .Some }}"
 
 [tag]
 other = "Etiqueta"
@@ -39,7 +39,7 @@ other = "Más"
 
 # === partials/header.html ===
 [selectLanguage]
-other = "Selecciona el lenguage"
+other = "Selecciona el idioma"
 
 [switchTheme]
 other = "Cambia el tema"
@@ -58,7 +58,7 @@ other = "en"
 other = "Tu comentario ..."
 
 [facebookLanguageCode]
-other = "es_MX"
+other = "es_ES"
 
 [giscusLang]
 other = "es"
