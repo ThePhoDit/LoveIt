@@ -20,8 +20,6 @@ pre {
 
   code {
     padding: 0;
-    @include overflow-wrap(break-word);
-    @include line-break(anywhere);
   }
 
   img {
